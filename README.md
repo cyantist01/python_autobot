@@ -7,8 +7,6 @@ Smart Round Detection
 
 > Fallback row‑movement detection – detects new rounds even if the image trigger fails.
 
-> Dual‑trigger system ensures no round is missed.
-
 > Automated Betting
 
 > Martingale‑style progression with configurable base bet, max bet, and chip denominations (5,10,20,50).
