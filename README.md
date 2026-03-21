@@ -86,3 +86,5 @@ Smart Round Detection
 > Gracefully closes the game window on exit.
 
 > Kills the entire process tree (including the loader) to ensure no leftover background processes.
+
+> Simulation toggle button
