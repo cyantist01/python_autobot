@@ -88,3 +88,5 @@ Smart Round Detection
 > Kills the entire process tree (including the loader) to ensure no leftover background processes.
 
 > Simulation toggle button
+
+> Shifting Color Sensor (Round Detection)
